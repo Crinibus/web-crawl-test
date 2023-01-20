@@ -1,0 +1,2 @@
+https://code402.com/blog/hello-warc-common-crawl-code-samples/
+https://github.com/code402/warc-benchmark/blob/master/python/go.py
